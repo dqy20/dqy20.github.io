@@ -12746,4 +12746,6 @@ html[xmlns] .flexslider .slides {
 h1{font-size:24px!important;} 
 h2{font-size:22px!important;} 
 h3{ font-size:20px!important;}
+figure.fadeInUp img.img-responsive {height:0px!important;}
+
     
